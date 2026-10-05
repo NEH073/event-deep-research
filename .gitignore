@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+**/.vscode/
+
+**/.env
+
+
+backend/scripts/
+backend/src/data/*
+
+.langgraph_api/**
+
+
+src/data/*
+
+.langgraph_api/*
+.pytest_cache/*

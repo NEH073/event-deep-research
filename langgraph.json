@@ -1,0 +1,14 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "supervisor": "./src/graph.py:graph",
+    "research_events": "./src/research_events/research_events_graph.py:research_events_app",
+    "merge_events_graph": "./src/research_events/merge_events/merge_events_graph.py:merge_events_app",
+    "url_crawler": "./src/url_crawler/url_krawler_graph.py:url_crawler_app",
+    "chunk_graph": "./src/research_events/chunk_graph.py:graph"
+  },
+  "python_version": "3.12",
+  "env": ".env",
+  "dependencies": ["."],
+  "auth": {}
+}

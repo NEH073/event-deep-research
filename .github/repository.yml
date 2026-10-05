@@ -1,0 +1,13 @@
+# GitHub repository metadata
+name: event-deep-research
+description: AI-powered agent that automatically researches historical figures and creates structured biographical timelines from web sources
+topics:
+  - ai-agents
+  - event-extraction
+  - knowledge-graphs
+  - web-scraping
+  - langgraph
+  - biographical-research
+  - automated-research
+  - llm-agents
+  - timeline-generation
